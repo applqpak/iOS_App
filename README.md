@@ -6,4 +6,4 @@ Custom Developed iOS App For GrimCraft
 - It will open Settings and ask you to install our app profile, just click install.
 - BOOM! Enjoy our app. :)
 
-#Developed by [@Kieran MineC
+#Developed by [@applqpak](https://GitHub.com/applqpak)
